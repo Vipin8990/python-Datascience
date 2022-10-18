@@ -6,5 +6,3 @@ x = float(input("eneter circumference of circle"))
 r = x/3.14*2
 area = 3.14*r*r
 print(area)
-
-
